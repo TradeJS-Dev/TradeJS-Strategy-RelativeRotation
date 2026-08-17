@@ -9,6 +9,10 @@ absolute trend alone. It combines 24-hour alpha and ratio returns,
 short-horizon relative strength, ratio trend, benchmark regime, ADX,
 correlation, volume, and volatility filters before sizing ATR-based risk.
 
+## Logic at a glance
+
+![RelativeRotation strategy logic](https://raw.githubusercontent.com/TradeJS-Dev/TradeJS-Strategy-RelativeRotation/main/docs/strategy-logic.svg)
+
 ## Install
 
 ```bash
