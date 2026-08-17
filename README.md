@@ -2,6 +2,13 @@
 
 TradeJS strategy plugin providing `RelativeRotation`.
 
+## Strategy overview
+
+`RelativeRotation` trades an asset's rotation against BTC rather than its
+absolute trend alone. It combines 24-hour alpha and ratio returns,
+short-horizon relative strength, ratio trend, benchmark regime, ADX,
+correlation, volume, and volatility filters before sizing ATR-based risk.
+
 ## Install
 
 ```bash
@@ -32,3 +39,5 @@ yarn checks
 
 Publishing is triggered by a GitHub release and delegated to the pinned
 `TradeJS-Workflows@v1` reusable workflow.
+
+Keywords: ai, claude, codex.
