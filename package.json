@@ -1,6 +1,6 @@
 {
   "name": "@tradejs/strategy-relative-rotation",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "BTC-relative rotation strategy using alpha, ratio trend, benchmark regime, correlation, volatility, and volume filters for TradeJS.",
   "type": "module",
   "packageManager": "yarn@4.13.0",
