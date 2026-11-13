@@ -1,0 +1,24 @@
+{
+  "schema": "tradejs-launch-report/v1",
+  "strategy": "RelativeRotation",
+  "candidate": "Frozen v6 DI22 with short liquidation gate",
+  "sourceSha256": "adeda4993ffded16e37e5c0bfe1dffaa661fce7a3eb1b29953a6fae8e2276ecc",
+  "metrics": {
+    "trades": 76,
+    "pnl": 293.51999999999987,
+    "maxDrawdown": 53.41999999999999,
+    "maxLossStreak": 4,
+    "profitFactor": 1.7780929406462893,
+    "winRatePercent": 51.31578947368421,
+    "maxDrawdownDurationDays": 70.6875
+  },
+  "researchRiskUsdt": 10,
+  "period": {
+    "start": 1631089800000,
+    "end": 1787568300000
+  },
+  "chart": {
+    "caption": "Historical cumulative P&L and drawdown from peak, in USDT.",
+    "sha256": "c8229cfc1724b169cb0730c4ad7c9355ad47534b2e43a8e1d14b369367e19f41"
+  }
+}
